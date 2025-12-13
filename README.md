@@ -1,6 +1,6 @@
-# Reddit Radar
+# Reddit-Problem-Discovery-Service
 
-Reddit Radar is a backend service that helps identify real, recurring problems in niche Reddit communities by automatically ingesting discussions, analyzing sentiment, and validating problem relevance using an LLM.
+The Reddit-Problem-Discovery-Service is a backend service that helps identify real, recurring problems in niche Reddit communities by automatically ingesting discussions, analyzing sentiment and validating problem relevance using an LLM.
 
 It is designed to support founders, developers, and researchers who want structured, actionable insights instead of manually scanning Reddit threads.
 
